@@ -2,4 +2,4 @@
 
 .NET 6.0 - Role Based Authorization API
 
-Documentation coming soon!
+Documentation at https://jasonwatmore.com/post/2022/02/18/net-6-role-based-authorization-tutorial-with-example-api
